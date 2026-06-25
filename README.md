@@ -1,4 +1,4 @@
-### Lee Dahyeon 👋
+### Lee Dahyun 👋
 
 <!--
 **dahyeon-da/dahyeon-da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
